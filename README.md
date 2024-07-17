@@ -6,9 +6,6 @@
 - Zemedkun Abebe
 - Bekalu Tamrat
 
-## Date
-- \today
-
 ## Abstract
 This report documents the process of fine-tuning a BERT model for sentiment analysis on a dataset of tweets. The model was trained and evaluated using the Hugging Face Transformers library, and a simple Streamlit web application was created to deploy the model for real-time sentiment prediction.
 
